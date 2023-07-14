@@ -5,10 +5,11 @@
 }
 .bannerBgImage{
     height: 100vh;
-    background-image: url("/images/bannerImage.jpg");
+    background-Image: url("/images/bannerImage.jpg");
     background-size: cover;
     position: relative;
-}.bannerText{
+}
+.bannerText{
     text-align: right;
     position: absolute;
     top: 50%;
